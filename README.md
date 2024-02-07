@@ -1,13 +1,3 @@
-## 🤖 HealthCare ChatBot
-Major -1 
-(4th year - 7th semester)
-
-Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician. 
-
-ChatBot can be described as software that can chat with people using artificial intelligence. These software are used to perform tasks such as quickly responding to users, informing them, helping to purchase products and providing better service to customers. We have made a healthcare based chatbot. 
-
-The three main areas where chatbots can be used are diagnostics, patient engagement outside medical facilities, and mental health. In our major we are working on diagnostic.
-
 ## :page_with_curl: Brief
 A chatbot is an artificially intelligent creature which can converse with humans. This could be text-based, or a spoken conversation. In our project we will be using Python as it is currently the most popular language for creating an AI chatbot. In the middle of AI chatbot, architecture is the Natural Language Processing (NLP) layer.
 
